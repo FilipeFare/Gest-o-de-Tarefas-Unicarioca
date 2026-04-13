@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - UniCarioca</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar-content">
+            <span class="brand">UniCarioca</span>
+            <span class="project-name">Ciência da Computação</span>
+        </div>
+    </header>
+    <div class="main-content">
+        <div class="container">
+            <div class="welcome-section">
+                <h1>Bem-vindo</h1>
+                <p>Acesse sua conta para gerir suas tarefas.</p>
+            </div>
+            <div id="mensagemAviso"></div>
+            <form id="formLogin">
+                <div class="input-block">
+                    <label for="loginEmail">E-mail</label>
+                    <input type="email" id="loginEmail" placeholder="exemplo@unicarioca.com.br" required>
+                </div>
+                <div class="input-block">
+                    <label for="loginPassword">Senha</label>
+                    <input type="password" id="loginPassword" placeholder="Sua senha" required>
+                </div>
+                <button type="submit" class="btn-primary">Entrar</button>
+            </form>
+            <div class="footer-actions">
+                <p>Não tem uma conta? <a href="registro.html" class="link-red">Registre-se aqui</a></p>
+            </div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

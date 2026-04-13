@@ -1,0 +1,230 @@
+{
+  "lastUserId": 13,
+  "lastTaskId": 22,
+  "users": [
+    {
+      "id": 1,
+      "name": "Filipe",
+      "email": "f@gmail.com",
+      "password_hash": "$2a$10$3B.okAr449eKvYYrBzWE6u4l/ATF/SU00mrQ03Iq9B8gjzfHc64Fy"
+    },
+    {
+      "id": 2,
+      "name": "fare",
+      "email": "fa@gmail.com",
+      "password_hash": "$2a$10$qvU3v.1tqms/E4ZtB3t4HOKxNAEr8zSMvlCt5oa5ctt9BbOlGaau."
+    },
+    {
+      "id": 3,
+      "name": "fare",
+      "email": "alo@gmail.com",
+      "password_hash": "$2a$10$qbjSvMzmjTcGF4oYp/UbTuH4NvN8uN/RtM6.2KXS.eDhadQDPlV5e"
+    },
+    {
+      "id": 4,
+      "name": "alofilipe",
+      "email": "filipesilvaribeiro27@gmail.com",
+      "password_hash": "$2a$10$LTnf69LdJBT3yFEMXitI..8cnlcLxnY7nJ1BeYPcu20Pvq3InZvea"
+    },
+    {
+      "id": 5,
+      "name": "filipee",
+      "email": "daw@gmail.com",
+      "password_hash": "$2a$10$y59Syh/20zNBD8asOyepM.bRYc5fntqNd2/5sn4Bd7frNkwTzmusK"
+    },
+    {
+      "id": 6,
+      "name": "aaa",
+      "email": "a@gmail.com",
+      "password_hash": "$2a$10$yOIthMUDT41z8dcaWPtOFuavXXtpFktlwzX9wxecPZce8YRMubCjy"
+    },
+    {
+      "id": 7,
+      "name": "aloaaa",
+      "email": "dada@gmail.com",
+      "password_hash": "$2a$10$Ethpulkh/QGkLLXKRv3bBO9wFG/cxdUtYAVxRjdPyem1vbIT5d412"
+    },
+    {
+      "id": 8,
+      "name": "filipeaa",
+      "email": "awnd@gmail.com",
+      "password_hash": "$2a$10$Xgp/TzymzPiaWp1RKvrVo.xONWlhH1nd1i1HozdnCB4rzzmcgVWoe"
+    },
+    {
+      "id": 9,
+      "name": "Faretyo",
+      "email": "faretyo@gmail.com",
+      "password_hash": "$2a$10$WP6qbXWvWZvsqL.G50UR9uGBA2BzO.g2u1XiDAHr0NSjWOXQg96A2"
+    },
+    {
+      "id": 10,
+      "name": "Faretyotestedois",
+      "email": "fare@gmail.com",
+      "password_hash": "$2a$10$rByFfpYwrssFElqucTdbvOlVgr1vpML0k/a9vMYEjjVqMm9CR1wSa"
+    },
+    {
+      "id": 11,
+      "name": "Filipe da Silva Rib",
+      "email": "filipee@gmail.com",
+      "password_hash": "$2a$10$AhcPnA1MKNWRV23BLDDDcuOfK2AaskSO/OFiYEZZTyJ0DeHuQ1.k."
+    },
+    {
+      "id": 12,
+      "name": "Filipe da Silva Ribeiro",
+      "email": "filipeunicarioca@gmail.com",
+      "password_hash": "$2a$10$NwB5IHOFOkL7rbeuroJsP.AnFEmtp66WhHEND3aMnpSEzkoUXNmau"
+    },
+    {
+      "id": 13,
+      "name": "Filipe da Silva Ribeiro",
+      "email": "filipeuni@gmail.com",
+      "password_hash": "$2a$10$cYLJUa4.ahDH0lEbQzQkVO.XFTOrKLDfDn3D3uW5L.sLEQB9J8rx."
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Jogar bola",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:20:32.514Z",
+      "owner_id": 9
+    },
+    {
+      "id": 2,
+      "title": "dançar",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:20:39.255Z",
+      "owner_id": 9
+    },
+    {
+      "id": 3,
+      "title": "alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:22:40.294Z",
+      "owner_id": 9
+    },
+    {
+      "id": 4,
+      "title": "oiii",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:24:17.702Z",
+      "owner_id": 9
+    },
+    {
+      "id": 5,
+      "title": "ola",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:27:15.967Z",
+      "owner_id": 9
+    },
+    {
+      "id": 6,
+      "title": "oi",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:28:37.926Z",
+      "owner_id": 9
+    },
+    {
+      "id": 7,
+      "title": "alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:28:46.108Z",
+      "owner_id": 9
+    },
+    {
+      "id": 8,
+      "title": "alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:29:57.674Z",
+      "owner_id": 9
+    },
+    {
+      "id": 9,
+      "title": "alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:33:13.720Z",
+      "owner_id": 9
+    },
+    {
+      "id": 10,
+      "title": "Alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:38:38.741Z",
+      "owner_id": 9
+    },
+    {
+      "id": 11,
+      "title": "tarefa",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:41:16.255Z",
+      "owner_id": 9
+    },
+    {
+      "id": 12,
+      "title": "tarefa",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:41:20.269Z",
+      "owner_id": 9
+    },
+    {
+      "id": 13,
+      "title": "alo",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:42:26.736Z",
+      "owner_id": 9
+    },
+    {
+      "id": 14,
+      "title": "testetarefa",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:46:44.921Z",
+      "owner_id": 10
+    },
+    {
+      "id": 15,
+      "title": "aleluia",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:48:18.139Z",
+      "owner_id": 10
+    },
+    {
+      "id": 16,
+      "title": "Jogar bola",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-12T23:55:33.082Z",
+      "owner_id": 11
+    },
+    {
+      "id": 17,
+      "title": "Aps",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-13T00:01:51.221Z",
+      "owner_id": 12
+    },
+    {
+      "id": 20,
+      "title": "Aps",
+      "description": null,
+      "deadline": null,
+      "created_at": "2026-04-13T00:09:52.320Z",
+      "owner_id": 13
+    }
+  ]
+}

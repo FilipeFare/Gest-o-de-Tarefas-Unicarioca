@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minhas Tarefas - UniCarioca</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar-content">
+            <span class="brand">UniCarioca</span>
+            <span class="project-name">Ciência da Computação</span>
+        </div>
+    </header>
+    <div class="main-content">
+        <div class="container">
+            <div class="welcome-section">
+                <h1>Minhas Tarefas</h1>
+                <p>Organize suas atividades acadêmicas e pessoais.</p>
+            </div>
+            <div class="input-group">
+                <input type="text" id="novaTarefa" placeholder="O que você precisa fazer hoje?">
+                <button class="btn-primary" onclick="createTask()">Adicionar</button>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Descrição</th>
+                            <th class="text-right">Ação</th>
+                        </tr>
+                    </thead>
+                    <tbody id="corpoTabela"></tbody>
+                </table>
+            </div>
+            <div class="footer-actions">
+                <button class="btn-logout" onclick="logout()">Sair do Sistema</button>
+            </div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
